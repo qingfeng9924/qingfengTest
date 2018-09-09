@@ -1,0 +1,13 @@
+package com.zy.object.clone;
+
+public class ObjectCloneTest {
+	public static void main(String[] args) {
+		
+	}
+}
+
+class Student {
+	private String name;
+	private String age;
+	
+}
